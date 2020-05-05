@@ -1,0 +1,11 @@
+.navbar-dark{
+    background-color: var(--darkissimo) !important;
+}
+/* per compensare spazio della navbar fixed di BS4*/
+body{padding-top: 40px;}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
