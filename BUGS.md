@@ -16,6 +16,7 @@ if (!data && _config.toggle && /show|hide/.test(_config))
 or use jquery 3.4.1 until twbs/bootstrap#30553 is fixed
 eseguito:
 npm install jquery@3.4.1 --save
+(alternativa usare cdn https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js)
 
 Errori in console di Popper.js:
 Tramite <script> bisogna caricare il file nella cartella dist/umd/popper.min.js
