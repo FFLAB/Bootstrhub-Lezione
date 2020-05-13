@@ -1,7 +1,7 @@
-# BootstrHub-start
- start per lezione Bootstrap
+# BootstrHub
+per lezione Bootstrap
  
  Download zip or clone and in the directory:
  npm install
  
- to install dependecies
+ to install dependencies
